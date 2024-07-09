@@ -1,0 +1,14 @@
+C:\Users\jjkak\source\repos\Cornway\bin\Debug\netcoreapp3.1\Cornway.exe
+C:\Users\jjkak\source\repos\Cornway\bin\Debug\netcoreapp3.1\Cornway.deps.json
+C:\Users\jjkak\source\repos\Cornway\bin\Debug\netcoreapp3.1\Cornway.runtimeconfig.json
+C:\Users\jjkak\source\repos\Cornway\bin\Debug\netcoreapp3.1\Cornway.runtimeconfig.dev.json
+C:\Users\jjkak\source\repos\Cornway\bin\Debug\netcoreapp3.1\Cornway.dll
+C:\Users\jjkak\source\repos\Cornway\bin\Debug\netcoreapp3.1\Cornway.pdb
+C:\Users\jjkak\source\repos\Cornway\obj\Debug\netcoreapp3.1\Cornway.csproj.AssemblyReference.cache
+C:\Users\jjkak\source\repos\Cornway\obj\Debug\netcoreapp3.1\Cornway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jjkak\source\repos\Cornway\obj\Debug\netcoreapp3.1\Cornway.AssemblyInfoInputs.cache
+C:\Users\jjkak\source\repos\Cornway\obj\Debug\netcoreapp3.1\Cornway.AssemblyInfo.cs
+C:\Users\jjkak\source\repos\Cornway\obj\Debug\netcoreapp3.1\Cornway.csproj.CoreCompileInputs.cache
+C:\Users\jjkak\source\repos\Cornway\obj\Debug\netcoreapp3.1\Cornway.dll
+C:\Users\jjkak\source\repos\Cornway\obj\Debug\netcoreapp3.1\Cornway.pdb
+C:\Users\jjkak\source\repos\Cornway\obj\Debug\netcoreapp3.1\Cornway.genruntimeconfig.cache
