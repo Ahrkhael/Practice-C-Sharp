@@ -34,4 +34,4 @@ Fourth iteration: </br>
 Fifth iteration: </br>
 ![imagen](https://github.com/Ahrkhael/Practice-C-/assets/137686345/9182fb27-000b-4cef-838b-c63a2203c81d)
 
-**Also you can choose as many iterations as you want and the size of your grid it could be as big as you want**
+**Also you can choose as many iterations as you want and also the size of your grid could be as big as you desire**
