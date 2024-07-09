@@ -1,0 +1,14 @@
+C:\Users\jjkak\source\repos\Buscaminas\bin\Debug\netcoreapp3.1\Buscaminas.exe
+C:\Users\jjkak\source\repos\Buscaminas\bin\Debug\netcoreapp3.1\Buscaminas.deps.json
+C:\Users\jjkak\source\repos\Buscaminas\bin\Debug\netcoreapp3.1\Buscaminas.runtimeconfig.json
+C:\Users\jjkak\source\repos\Buscaminas\bin\Debug\netcoreapp3.1\Buscaminas.runtimeconfig.dev.json
+C:\Users\jjkak\source\repos\Buscaminas\bin\Debug\netcoreapp3.1\Buscaminas.dll
+C:\Users\jjkak\source\repos\Buscaminas\bin\Debug\netcoreapp3.1\Buscaminas.pdb
+C:\Users\jjkak\source\repos\Buscaminas\obj\Debug\netcoreapp3.1\Buscaminas.csproj.AssemblyReference.cache
+C:\Users\jjkak\source\repos\Buscaminas\obj\Debug\netcoreapp3.1\Buscaminas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jjkak\source\repos\Buscaminas\obj\Debug\netcoreapp3.1\Buscaminas.AssemblyInfoInputs.cache
+C:\Users\jjkak\source\repos\Buscaminas\obj\Debug\netcoreapp3.1\Buscaminas.AssemblyInfo.cs
+C:\Users\jjkak\source\repos\Buscaminas\obj\Debug\netcoreapp3.1\Buscaminas.csproj.CoreCompileInputs.cache
+C:\Users\jjkak\source\repos\Buscaminas\obj\Debug\netcoreapp3.1\Buscaminas.dll
+C:\Users\jjkak\source\repos\Buscaminas\obj\Debug\netcoreapp3.1\Buscaminas.pdb
+C:\Users\jjkak\source\repos\Buscaminas\obj\Debug\netcoreapp3.1\Buscaminas.genruntimeconfig.cache
