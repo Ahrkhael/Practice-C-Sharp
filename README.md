@@ -18,7 +18,7 @@ where '?' are the symbol for undicovered squares, 'X' are the bombs and the numb
 
 # Conway's game of life
 
-**Each iteration has a delay of 0.5s**
+**Each iteration has a delay of 0.5s** </br>
 First iteration: </br>
 ![imagen](https://github.com/Ahrkhael/Practice-C-/assets/137686345/a3fb61d7-abfe-4af2-af3b-560543c869e0)
 
