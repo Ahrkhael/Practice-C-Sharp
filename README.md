@@ -14,7 +14,7 @@ Winning game: </br>
 Losing game: </br>
 ![imagen](https://github.com/Ahrkhael/Practice-C-/assets/137686345/d5f886de-2774-484d-974e-3a1eb69723b7)
 
-where '?' are the symbol for undicovered squares, 'X' are the bombs and the numbers are the mines around that square.
+where '?' are the symbol for undiscovered squares, 'X' are the bombs and the numbers are the mines around that square.
 
 # Conway's game of life
 
