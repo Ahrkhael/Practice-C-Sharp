@@ -1,7 +1,7 @@
 # Practice-C#
-Programs made for practice with C# when I was studying my degree.
+Programs made for practice with C# when I was studying my degree in my first course.
 
-**I know they could have a better interface, but I did it a year ago when I was starting to develop some programs and I'm fond of them.**
+**I know they could have a better interface, but I did them when I was starting to develop some programs and I'm fond of them.**
 
 # Minesweeper
 
